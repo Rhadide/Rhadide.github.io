@@ -1,0 +1,21 @@
+.body{
+    min-height: 2000 px;
+}
+.jumbotron {
+
+    padding-top: 6rem ;
+    background-color: #f79a9a;
+}
+
+#about{
+    font-family: 'Bebas Neue', cursive;
+
+}
+#Services {
+    font-family: 'Bebas Neue', cursive;
+    background-color: #f79a9a;
+
+}
+section{
+    padding-top: 5rem;
+}
